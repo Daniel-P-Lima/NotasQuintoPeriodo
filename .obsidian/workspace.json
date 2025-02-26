@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "d588c9ed89524e99",
+    "type": "split",
+    "children": [
+      {
+        "id": "c89029af1dda0531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82541885f9ab9735",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Métodos Quantitativos para Computação/Apresentação da disciplina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apresentação da disciplina"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b870600b1b68f3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "956a59aa6f1e71be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90164feb1ad4c191",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b556ec59d4b2ebaa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "409e5648017b33d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae41c96c63ffc555",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5ede6473ffb1585",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b946841a6dfd6464",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 - Main Notes/Métodos Quantitativos para Computação/Apresentação da disciplina.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Apresentação da disciplina"
+            }
+          },
+          {
+            "id": "bd69003eadbefc85",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 - Main Notes/Métodos Quantitativos para Computação/Apresentação da disciplina.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Apresentação da disciplina"
+            }
+          },
+          {
+            "id": "b0b29d6ae791a09e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a1c37a00b10f5b92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6 - Main Notes/Métodos Quantitativos para Computação/Apresentação da disciplina.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Apresentação da disciplina"
+            }
+          },
+          {
+            "id": "7f5131e5c693f6e6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "82541885f9ab9735",
+  "lastOpenFiles": [
+    "5 - Templates/Full Note.md",
+    "6 - Main Notes/Complexidade de Algoritmos/Apresentação da disciplina.md",
+    "6 - Main Notes/Métodos Quantitativos para Computação/Apresentação da disciplina.md",
+    "3 - Tags/Complexidade de Algoritmos.md",
+    "3 - Tags/Métodos Quantitativos/Métodos Quantitativos.md",
+    "6 - Main Notes/Teste.md",
+    "6 - Main Notes/Untitled 1.md",
+    "6 - Main Notes/Untitled.md",
+    "6 - Main Notes",
+    "7 -",
+    "5 - Templates",
+    "4 - Indexes",
+    "3 - Tags/Métodos Quantitativos/Estatística.md",
+    "3 - Tags/Métodos Quantitativos/Probabilidade.md",
+    "3 - Tags/Métodos Quantitativos",
+    "Welcome.md",
+    "3 - Tags",
+    "2 - Source Material",
+    "1-",
+    "6 - Main Notes/Métodos Quantitativos para Computação",
+    "6 - Main Notes/Complexidade de Algoritmos/Pasted image 20250224190419.png",
+    "6 - Main Notes/Complexidade de Algoritmos"
+  ]
+}
