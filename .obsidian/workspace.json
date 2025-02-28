@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "038ff4194b810ac2",
+        "id": "9d0c4659951fdc24",
         "type": "tabs",
         "children": [
           {
-            "id": "dd10cf6706d7138b",
+            "id": "68cf29143cd5f71c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Complexidade de Algoritmos/Apresentação da disciplina Complexidade de Algoritmos.md",
+                "file": "6 - Main Notes/Introdução ao Método Científico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apresentação da disciplina Complexidade de Algoritmos"
+              "title": "Introdução ao Método Científico"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Desenvolvendo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Complexidade de Algoritmos/Apresentação da disciplina Complexidade de Algoritmos.md",
+                "file": "6 - Main Notes/Método de Pesquisa/Apresentação da disciplina Método de Pesquisa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Apresentação da disciplina Complexidade de Algoritmos"
+              "title": "Backlinks for Apresentação da disciplina Método de Pesquisa"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Main Notes/Complexidade de Algoritmos/Apresentação da disciplina Complexidade de Algoritmos.md",
+                "file": "6 - Main Notes/Método de Pesquisa/Apresentação da disciplina Método de Pesquisa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Apresentação da disciplina Complexidade de Algoritmos"
+              "title": "Outgoing links from Apresentação da disciplina Método de Pesquisa"
             }
           },
           {
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Main Notes/Complexidade de Algoritmos/Apresentação da disciplina Complexidade de Algoritmos.md",
+                "file": "6 - Main Notes/Método de Pesquisa/Apresentação da disciplina Método de Pesquisa.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Apresentação da disciplina Complexidade de Algoritmos"
+              "title": "Outline of Apresentação da disciplina Método de Pesquisa"
             }
           },
           {
@@ -177,18 +178,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "smart-random-note:Open Random Note from Search": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd10cf6706d7138b",
+  "active": "68cf29143cd5f71c",
   "lastOpenFiles": [
+    "6 - Main Notes/Apresentação da disciplina Grafos.md",
+    "3 - Tags/Grafos.md",
+    "6 - Main Notes/Introdução ao Método Científico.md",
     "6 - Main Notes/Métodos Quantitativos para Computação/Apresentação da disciplina Métodos Quantitativos.md",
-    "3 - Tags/Métodos Quantitativos/Métodos Quantitativos.md",
-    "5 - Templates/Full Note.md",
+    "6 - Main Notes/Método de Pesquisa/Apresentação da disciplina Método de Pesquisa.md",
+    "5 - Templates/Note Template.md",
+    "6 - Main Notes/Métodos Quantitativos para Computação/M.md",
+    "Untitled.canvas",
     "6 - Main Notes/Complexidade de Algoritmos/Apresentação da disciplina Complexidade de Algoritmos.md",
+    "6 - Main Notes/Complexidade de Algoritmos/Pasted image 20250224190419.png",
+    "3 - Tags/Métodos de Pesquisa/Métodos de pesquisa.md",
     "3 - Tags/Complexidade de Algoritmos.md",
+    "3 - Tags/Métodos de Pesquisa",
+    "6 - Main Notes/Método de Pesquisa",
+    "3 - Tags/Métodos Quantitativos/Métodos Quantitativos.md",
     "6 - Main Notes/Teste.md",
     "6 - Main Notes/Untitled 1.md",
     "6 - Main Notes/Untitled.md",
@@ -202,9 +212,6 @@
     "Welcome.md",
     "3 - Tags",
     "2 - Source Material",
-    "1 - Rough Notes",
-    "6 - Main Notes/Métodos Quantitativos para Computação",
-    "6 - Main Notes/Complexidade de Algoritmos/Pasted image 20250224190419.png",
-    "6 - Main Notes/Complexidade de Algoritmos"
+    "1 - Rough Notes"
   ]
 }

@@ -1,12 +1,9 @@
 2025-02-26 18:03
 
-Satus: #pronta
+Satus: #Finalizada
 
 Tags: [[Métodos Quantitativos]], [[Estatística]], [[Probabilidade]]
 
-# 2025-02-25
-
-Tags: ![[Métodos Quantitativos]]
 **Apresentação da disciplina**
 
 Estatística e probabilidade 
